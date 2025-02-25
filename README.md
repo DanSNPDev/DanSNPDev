@@ -1,17 +1,15 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=500&color=2600E5&center=true&vCenter=true&random=false&width=524&lines=Bem-vindo+ao+meu+perfil" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=500&color=900C3F&center=true&vCenter=true&random=false&width=524&lines=Bem-vindo+ao+meu+perfil" alt="Typing SVG">
   </a>
 </div>
 
 <img align="center" alt="" src="./src/header-gif.gif">
-
-
 ###
 
 <p align="left">Hello World,
 Sou o Danilo,
-Hoje, sou apenas um entusiasta na área da programação para onde desejo transicionar.
+Hoje, sou apenas um entusiasta na área da programação para onde desejo transicionar. 
 </p>
 
 ###
@@ -56,9 +54,9 @@ Hoje, sou apenas um entusiasta na área da programação para onde desejo tr
 
 ###
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Felippe-Nobre/Felippe-Nobre/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Felippe-Nobre/Felippe-Nobre/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Felippe-Nobre/Felippe-Nobre/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanSNPDev/DanSNPDev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanSNPDev/DanSNPDev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DanSNPDev/DanSNPDev/output/github-contribution-grid-snake.svg">
 </picture>
 
 ###
