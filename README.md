@@ -25,24 +25,29 @@ Hoje, sou apenas um entusiasta na área da programação para onde desejo tr
 
 ###
 
-<h1 align="left"></h1>
+<h1 align="center"></h1>
 
 ###
 
-<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/ce6efb21-adac-4156-99a4-e1a9a92f0f35">
 
 
-<h3 align="left">Connect with me!</h3>
+
+<h3 align="center">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:danilo.snp@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/danilo-soares-nunes-pereira-864735214/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/dan_snp?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
+###
 
-<h3 align="left">My technology languages
+<h1 align="center"></h1>
+
+###
+
+<h3 align="center">My technology languages
 </h3>
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 16px; max-width: 160px;">
+<div align="centert" style="display: flex; flex-wrap: wrap; gap: 16px; max-width: 160px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="C Logo" />
  
 </div>
@@ -50,7 +55,7 @@ Hoje, sou apenas um entusiasta na área da programação para onde desejo tr
 
 ###
 
-<h1 align="left"></h1>
+<h1 align="center"></h1>
 
 ###
 <picture align="center">
