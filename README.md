@@ -5,7 +5,7 @@
 </div>
 
 <img align="center" alt="" src="./src/header-gif.gif">
-###
+
 
 <p align="left">Hello World,
 Sou o Danilo,
