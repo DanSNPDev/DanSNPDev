@@ -8,7 +8,7 @@
 
 
 <p align="left">Hello World,
-Sou o Danilo,
+Sou o Danilo.
 Hoje, sou apenas um entusiasta na área da programação para onde desejo transicionar. 
 </p>
 
